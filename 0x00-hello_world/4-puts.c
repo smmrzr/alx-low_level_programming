@@ -2,10 +2,11 @@
 
 
 /**
- * main -prints "Programming is like building a
- * multilingual puzzle"
+ * main - Entry point
  *
- * return 0
+ * Description: "Programming is like building a multilingual puzzle"
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
